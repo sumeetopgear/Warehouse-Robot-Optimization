@@ -1,3 +1,5 @@
+%% A rough model of the design optimization problem to explore the design space and analyse the scope and feasibility of the problem.
+
 % Test values
 v = 1; %m/s      normal walking speed of human
 h = 1.83; % m    Height of a 6ft person
