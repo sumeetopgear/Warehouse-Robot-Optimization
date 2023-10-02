@@ -1,3 +1,5 @@
+%% Objecive function file for the optimization
+
 function f = obj_epsProject(x, parameters)
 % Objective function for a simple example Problem (Messac 6.4 modification)
 % SE-413 Engineering Design Optimization, UIUC
