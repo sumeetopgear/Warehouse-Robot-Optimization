@@ -1,3 +1,5 @@
+%% Constraints file
+
 function [C,Ceq] = nonlcon_epsProject(x, parameters)
 % Constraint function for a simple example Problem (Messac 6.4 modification)
 % SE-413 Engineering Design Optimization, UIUC
